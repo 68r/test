@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/edpuzzle", {data:[{}],fetch:{},mutations:void 0});
